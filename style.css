@@ -4,8 +4,9 @@
 }
 
 header {
-  background-color: #000000;
+  background-color: #1da37b;
   height: 80px;
+  width: 100%;
   position: fixed;
 }
 h1 {
@@ -17,7 +18,7 @@ h1 {
   background-image: url(images/Logo.png);
   background-repeat: no-repeat;
   background-position: center;
-  width: 210px;
+  width: 180px;
   text-indent: -9999px;
 }
 header ul {
@@ -70,7 +71,7 @@ header a:hover {
 
 .slogan {
   height: 250px;
-  background-color: #485652;
+  background-color: #495652;
   padding: 20px;
   color: white;
   display: flex;
